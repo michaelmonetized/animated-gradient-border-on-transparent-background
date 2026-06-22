@@ -1,0 +1,19 @@
+{
+  "repoId": "r172z2vtwen5zmy8jv11cev9ed87m609",
+  "owner": "uncap_user",
+  "name": "Glass Animated Gradient Border",
+  "originType": "native",
+  "legacy": {
+    "hasGitHub": false,
+    "hasGit": true
+  },
+  "defaults": {
+    "file": "public",
+    "fragment": "public",
+    "issue": "public",
+    "pullRequest": "public",
+    "branch": "public",
+    "comment": "public"
+  },
+  "headSha": ""
+}
